@@ -35,8 +35,8 @@
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-F9AB00?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;&nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsnehadas&show_icons=true&locale=en&layout=compact" alt="iamsnehadas" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsnehadas&show_icons=true&locale=en&layout=compact" alt="iamsnehadas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsnehadas&show_icons=true&locale=en" alt="iamsnehadas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsnehadas&show_icons=true&locale=en" alt="iamsnehadas" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsnehadas&" alt="iamsnehadas" /></p>
