@@ -53,4 +53,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsnehadas&show_icons=true&locale=en" alt="iamsnehadas" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsnehadas&" alt="iamsnehadas" /></p>
+<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=iamsnehadas)](https://git.io/streak-stats)" alt="iamsnehadas" /></p>
