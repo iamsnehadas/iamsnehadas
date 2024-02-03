@@ -26,7 +26,7 @@
 <p align="left">
 -->
 <a href="https://www.leetcode.com/Sneha_snow" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Sneha_snow" height="30" /></a>&nbsp
-<a href="https://www.interviewbit.com/profile/snehasnow8_f9e4a115e8bb" target="blank"><img align="center" src="https://img.shields.io/badge/InterviewBit-lightgray?style=for-the-badge&logo=https://icons8.com/icon/BaooGqbWDceE/interviewbit" alt="snehasnow8" height="30" /></a>&nbsp
+<a href="https://www.interviewbit.com/profile/snehasnow8_f9e4a115e8bb" target="blank"><img align="center" src="https://img.shields.io/badge/InterviewBit-aliceblue?style=for-the-badge&logo=https://icons8.com/icon/BaooGqbWDceE/interviewbit" alt="snehasnow8" height="30" /></a>&nbsp
 <a href="https://auth.geeksforgeeks.org/user/snehasnow8" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=#35914c" alt="snehasnow8" height="30" /></a>&nbsp
 <a href="https://codeforces.com/profile/Sneha_snow" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Sneha_Snow" height="30" /></a>&nbsp
 <a href="https://www.codingninjas.com/studio/profile/Sneha_Das" target="blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Sneha_Das" height="30" /></a>
