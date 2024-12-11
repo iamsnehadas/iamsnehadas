@@ -55,4 +55,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsnehadas&show_icons=true&locale=en" alt="iamsnehadas" /></p>-->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iamsnehadas)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamsnehadas&theme=tokyonight-duo)](https://git.io/streak-stats)
