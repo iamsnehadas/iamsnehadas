@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsnehadas" alt="iamsnehadas" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
-
 - 📫 How to reach me **snehadas0819@gmail.com**
 
 - ⚡ Fun fact **I like spending time alone with music 🎧 and story books📖.**
