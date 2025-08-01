@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sneha-das-3b94b9226" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sneha-das-3b94b9226" height="30" width="100" /></a>&nbsp
-<a href="https://twitter.com/Sneha71835260" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Sneha71835260" height="30"  /></a>&nbsp
+
 </p>
 <h3 align="left">Coding Platforms:</h3> 
 <p align="left">
